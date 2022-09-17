@@ -1,3 +1,15 @@
+bash: line 1: first-push.txt: command not found
+bash: line 1: first-push.txt: command not found
+1 This is the First Push
+2
+3 This is second edit to this file
+
+
+
+
+1 This is the First Push
+2
+3 This is second edit to this file
 
 
 
