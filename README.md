@@ -1,3 +1,3 @@
-# git-essentialss
+#Git Essentialss / Git For Everybody
 
-some new stuff in here
+> This is a  course to teach you how to use every day git
